@@ -1,2 +1,3 @@
 My first readme
-##It is going to be an awesom journey
+
+## It is going to be an awesome journey
